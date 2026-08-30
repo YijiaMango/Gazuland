@@ -8,8 +8,4 @@
 
 https://yijiamango.github.io/Gazuland/
 
-**倉庫**
-
-https://github.com/YijiaMango/Gazuland
-
 本地開啟入口：根目錄 `index.html`。
